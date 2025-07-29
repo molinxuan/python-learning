@@ -46,8 +46,10 @@ molin/
 - 🚀 项目：`projects/simple/personal_info_card.py`
 
 **第2课：控制流语句**
-- 📂 位置：`basics/02-control-flow/`
-- 🎯 目标：掌握if-else判断、for和while循环
+- 📂 文件：`basics/02-control-flow/control_flow_statements.py`
+- 🎯 目标：掌握if-else判断、for和while循环、break和continue
+- 💪 练习：`exercises/beginner/lesson02_exercises.py`
+- 🚀 项目：`projects/simple/number_guessing_game.py`
 
 **第3课：函数**
 - 📂 位置：`basics/03-functions/`
