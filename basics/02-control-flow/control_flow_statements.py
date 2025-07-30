@@ -25,6 +25,8 @@ print()
 age = 18
 if age >= 18:
     print("你已经成年了！")
+else:
+    print("你还未成年！")
 
 print()
 
@@ -113,7 +115,7 @@ print()
 temperature = 25
 humidity = 60
 
-if temperature > 20 and temperature < 30 and humidity < 70:
+if (temperature > 20) and temperature < 30 and humidity < 70:
     print("天气很舒适")
 else:
     print("天气不太舒适")
@@ -251,6 +253,9 @@ print()
 print("处理数字列表（跳过负数，遇到0停止）：")
 numbers = [1, 3, -2, 4, -5, 0, 6, 7]
 i = 0
+#b="hello"
+#print(f"b的长度为{len(b)}")
+#nunbers1 = numbers[-1]
 while i < len(numbers):
     num = numbers[i]
     
